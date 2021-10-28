@@ -1,5 +1,5 @@
 package telran.util;
-
+  
 import java.util.function.Predicate;
 
 public interface List<T> {
